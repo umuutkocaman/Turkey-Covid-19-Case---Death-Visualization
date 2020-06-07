@@ -1,7 +1,7 @@
 # Turkey-Covid-19-Case---Death-Visualization
 
 For the visuals to look better, you can look at the Kernel on the Kaggle:
-<br/><br/><br/>
+<br/><br/>
 [Turkey Covid-19 Case/Death Visualization - Kaggle](https://www.kaggle.com/umutc4n/turkey-covid-19-case-death-visualization)
 <br/><br/>
 Data Sources:
